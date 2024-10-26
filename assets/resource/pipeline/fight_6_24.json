@@ -47,7 +47,9 @@
         "connected": true,  
         "pre_wait_freezes": 500,
         "next": [
-            "点击前进"
+            "点击前进",
+            "离开6-24"
+            
         ]
     },
     "点击前进":{
